@@ -9,6 +9,12 @@
 Changes
 =======
 
+Version v1.0.0 (released 2026-03-16)
+
+- fix(service): Return empty result when documents are not indexed yet
+- feat(service): add action param to enable hidden filtering
+
+
 Version v1.0.0 (released 2026-01-30)
 
 - chore(setup): bump dependencies
