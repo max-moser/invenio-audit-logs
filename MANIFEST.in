@@ -29,3 +29,5 @@ recursive-include docs Makefile
 recursive-include invenio_audit_logs *.json
 recursive-include invenio_audit_logs *.py
 recursive-include tests *.py
+
+exclude .git-blame-ignore-revs
